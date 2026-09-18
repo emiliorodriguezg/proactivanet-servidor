@@ -1,1 +1,1 @@
-https://cube-hay-occurred-bucks.trycloudflare.com
+https://api.trycloudflare.com
