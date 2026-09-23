@@ -1,1 +1,1 @@
-https://solution-jimmy-wichita-batteries.trycloudflare.com
+https://api.trycloudflare.com
