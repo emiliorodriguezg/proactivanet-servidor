@@ -1,1 +1,1 @@
-https://score-greene-sec-slides.trycloudflare.com
+https://api.trycloudflare.com
