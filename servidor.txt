@@ -1,1 +1,1 @@
-https://lat-automation-travelling-skiing.trycloudflare.com
+https://api.trycloudflare.com
