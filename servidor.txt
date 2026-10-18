@@ -1,1 +1,1 @@
-https://photographer-out-wash-cloth.trycloudflare.com
+https://api.trycloudflare.com
